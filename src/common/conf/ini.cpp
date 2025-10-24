@@ -10,7 +10,7 @@ See the Mulan PSL v2 for more details. */
 
 //
 // Created by Longda on 2010
-//
+//.
 
 #include <errno.h>
 #include <string.h>
